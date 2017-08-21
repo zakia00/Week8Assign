@@ -1,7 +1,7 @@
 # Week8Lab
 # Cybersecurity Week8Lab - Zakia 
 
-Time spent: 7 hours spent in total 
+Time spent: 10 hours spent in total 
 
 ## User Stories
 
