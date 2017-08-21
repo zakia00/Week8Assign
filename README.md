@@ -1,3 +1,29 @@
+# Week8Lab
+# Cybersecurity Week8Lab - Zakia 
+
+Time spent: 7 hours spent in total 
+
+## User Stories
+
+The following **required** functionality is completed:
+
+1. [x]  Required: Milestone 0: Preparing the Playing Field
+2. [x]  Required: Milestone 1: Opening an Attack Surface
+3. [x]  Required: Milestone 2: Recon
+4. [x]  Required: Milestone 3: Hello, Metasploit
+5. [x]  Required: Milestone 4: Pwnage
+6. [x]  Required: Milestone 5: Tag it
+7. [x]  Required: Milestone 6: Going Deeper
+8. [x]  Required: Milestone 7: Hello, sqlmap
+
+
+The following advanced user stories are optional:
+
+* [ ]  Bonus Milestone 8: sqlmap vs. SecurityShepherd (Optional)
+* [ ]  Bonus Milestone 9: Watch and Learn (Optional)
+
+## Note: I have answered the challenge questions in wk8Lab.docx file.
+
 # Week8Assign
 # Cybersecurity Week8Assign - Zakia 
 
@@ -7,7 +33,6 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
- 
 1. [x]  Required: Username Enumeration
 2. [x]  Insecure Direct Object Reference
 3. [x]  SQL Injection
