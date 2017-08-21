@@ -40,12 +40,11 @@ The following **required** functionality is completed:
 5. [x]  Cross-Site Request Forgery
 6. [x]  Session Hijacking/Fixation
 
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/zakia00/Week2Lab/blob/master/week2.gif' title='Video Walkthrough of Week2 Lab' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zakia00/Week8Assign/blob/master/wk8-assign.gif' title='Video Walkthrough of Week8 Assignment' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
